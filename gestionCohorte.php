@@ -16,3 +16,4 @@ if(isset($_REQUEST['valider'])){
 }
    
 ?>
+Bonjour a toutes et a tous
